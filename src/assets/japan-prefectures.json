@@ -1,0 +1,613 @@
+[
+  {
+    "name": "北海道",
+    "key": "hokkaido",
+    "regionKey": "hokkaido",
+    "isoCode": 1,
+    "displayName": "北海道",
+    "pos": {
+      "x": 12,
+      "y": 0,
+      "w": 3,
+      "h": 3
+    }
+  },
+  {
+    "name": "青森県",
+    "key": "aomori",
+    "regionKey": "tohoku",
+    "isoCode": 2,
+    "displayName": "青森",
+    "pos": {
+      "x": 12,
+      "y": 4,
+      "w": 2,
+      "h": 1
+    }
+  },
+  {
+    "name": "岩手県",
+    "key": "iwate",
+    "regionKey": "tohoku",
+    "isoCode": 3,
+    "displayName": "岩手",
+    "pos": {
+      "x": 13,
+      "y": 5,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "宮城県",
+    "key": "miyagi",
+    "regionKey": "tohoku",
+    "isoCode": 4,
+    "displayName": "宮城",
+    "pos": {
+      "x": 13,
+      "y": 6,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "秋田県",
+    "key": "akita",
+    "regionKey": "tohoku",
+    "isoCode": 5,
+    "displayName": "秋田",
+    "pos": {
+      "x": 12,
+      "y": 5,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "山形県",
+    "key": "yamagata",
+    "regionKey": "tohoku",
+    "isoCode": 6,
+    "displayName": "山形",
+    "pos": {
+      "x": 12,
+      "y": 6,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "福島県",
+    "key": "fukushima",
+    "regionKey": "tohoku",
+    "isoCode": 7,
+    "displayName": "福島",
+    "pos": {
+      "x": 12,
+      "y": 7,
+      "w": 2,
+      "h": 1
+    }
+  },
+  {
+    "name": "茨城県",
+    "key": "ibaraki",
+    "regionKey": "kanto",
+    "isoCode": 8,
+    "displayName": "茨城",
+    "pos": {
+      "x": 13,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "栃木県",
+    "key": "tochigi",
+    "regionKey": "kanto",
+    "isoCode": 9,
+    "displayName": "栃木",
+    "pos": {
+      "x": 13,
+      "y": 8,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "群馬県",
+    "key": "gunma",
+    "regionKey": "kanto",
+    "isoCode": 10,
+    "displayName": "群馬",
+    "pos": {
+      "x": 12,
+      "y": 8,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "埼玉県",
+    "key": "saitama",
+    "regionKey": "kanto",
+    "isoCode": 11,
+    "displayName": "埼玉",
+    "pos": {
+      "x": 12,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "千葉県",
+    "key": "chiba",
+    "regionKey": "kanto",
+    "isoCode": 12,
+    "displayName": "千葉",
+    "pos": {
+      "x": 13,
+      "y": 10,
+      "w": 1,
+      "h": 2
+    }
+  },
+  {
+    "name": "東京都",
+    "key": "tokyo",
+    "regionKey": "kanto",
+    "isoCode": 13,
+    "displayName": "東京",
+    "pos": {
+      "x": 12,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "神奈川県",
+    "key": "kanagawa",
+    "regionKey": "kanto",
+    "isoCode": 14,
+    "displayName": "神奈川",
+    "pos": {
+      "x": 12,
+      "y": 11,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "新潟県",
+    "key": "niigata",
+    "regionKey": "chubu",
+    "isoCode": 15,
+    "displayName": "新潟",
+    "pos": {
+      "x": 11,
+      "y": 7,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "富山県",
+    "key": "toyama",
+    "regionKey": "chubu",
+    "isoCode": 16,
+    "displayName": "富山",
+    "pos": {
+      "x": 10,
+      "y": 7,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "石川県",
+    "key": "ishikawa",
+    "regionKey": "chubu",
+    "isoCode": 17,
+    "displayName": "石川",
+    "pos": {
+      "x": 9,
+      "y": 7,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "福井県",
+    "key": "fukui",
+    "regionKey": "chubu",
+    "isoCode": 18,
+    "displayName": "福井",
+    "pos": {
+      "x": 9,
+      "y": 8,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "山梨県",
+    "key": "yamanashi",
+    "regionKey": "chubu",
+    "isoCode": 19,
+    "displayName": "山梨",
+    "pos": {
+      "x": 11,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "長野県",
+    "key": "nagano",
+    "regionKey": "chubu",
+    "isoCode": 20,
+    "displayName": "長野",
+    "pos": {
+      "x": 11,
+      "y": 8,
+      "w": 1,
+      "h": 2
+    }
+  },
+  {
+    "name": "岐阜県",
+    "key": "gifu",
+    "regionKey": "chubu",
+    "isoCode": 21,
+    "displayName": "岐阜",
+    "pos": {
+      "x": 10,
+      "y": 8,
+      "w": 1,
+      "h": 2
+    }
+  },
+  {
+    "name": "静岡県",
+    "key": "shizuoka",
+    "regionKey": "chubu",
+    "isoCode": 22,
+    "displayName": "静岡",
+    "pos": {
+      "x": 11,
+      "y": 11,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "愛知県",
+    "key": "aichi",
+    "regionKey": "chubu",
+    "isoCode": 23,
+    "displayName": "愛知",
+    "pos": {
+      "x": 10,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "三重県",
+    "key": "mie",
+    "regionKey": "kansai",
+    "isoCode": 24,
+    "displayName": "三重",
+    "pos": {
+      "x": 9,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "滋賀県",
+    "key": "shiga",
+    "regionKey": "kansai",
+    "isoCode": 25,
+    "displayName": "滋賀",
+    "pos": {
+      "x": 9,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "京都府",
+    "key": "kyoto",
+    "regionKey": "kansai",
+    "isoCode": 26,
+    "displayName": "京都",
+    "pos": {
+      "x": 8,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "大阪府",
+    "key": "osaka",
+    "regionKey": "kansai",
+    "isoCode": 27,
+    "displayName": "大阪",
+    "pos": {
+      "x": 7,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "兵庫県",
+    "key": "hyogo",
+    "regionKey": "kansai",
+    "isoCode": 28,
+    "displayName": "兵庫",
+    "pos": {
+      "x": 7,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "奈良県",
+    "key": "nara",
+    "regionKey": "kansai",
+    "isoCode": 29,
+    "displayName": "奈良",
+    "pos": {
+      "x": 8,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "和歌山県",
+    "key": "wakayama",
+    "regionKey": "kansai",
+    "isoCode": 30,
+    "displayName": "和歌山",
+    "pos": {
+      "x": 7,
+      "y": 11,
+      "w": 2,
+      "h": 1
+    }
+  },
+  {
+    "name": "鳥取県",
+    "key": "tottori",
+    "regionKey": "chugoku",
+    "isoCode": 31,
+    "displayName": "鳥取",
+    "pos": {
+      "x": 6,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "島根県",
+    "key": "shimane",
+    "regionKey": "chugoku",
+    "isoCode": 32,
+    "displayName": "島根",
+    "pos": {
+      "x": 5,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "岡山県",
+    "key": "okayama",
+    "regionKey": "chugoku",
+    "isoCode": 33,
+    "displayName": "岡山",
+    "pos": {
+      "x": 6,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "広島県",
+    "key": "hiroshima",
+    "regionKey": "chugoku",
+    "isoCode": 34,
+    "displayName": "広島",
+    "pos": {
+      "x": 5,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "山口県",
+    "key": "yamaguchi",
+    "regionKey": "chugoku",
+    "isoCode": 35,
+    "displayName": "山口",
+    "pos": {
+      "x": 4,
+      "y": 9,
+      "w": 1,
+      "h": 2
+    }
+  },
+  {
+    "name": "徳島県",
+    "key": "tokushima",
+    "regionKey": "shikoku",
+    "isoCode": 36,
+    "displayName": "徳島",
+    "pos": {
+      "x": 6,
+      "y": 13,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "香川県",
+    "key": "kagawa",
+    "regionKey": "shikoku",
+    "isoCode": 37,
+    "displayName": "香川",
+    "pos": {
+      "x": 6,
+      "y": 12,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "愛媛県",
+    "key": "ehime",
+    "regionKey": "shikoku",
+    "isoCode": 38,
+    "displayName": "愛媛",
+    "pos": {
+      "x": 5,
+      "y": 12,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "高知県",
+    "key": "kochi",
+    "regionKey": "shikoku",
+    "isoCode": 39,
+    "displayName": "高知",
+    "pos": {
+      "x": 5,
+      "y": 13,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "福岡県",
+    "key": "fukuoka",
+    "regionKey": "kyushu",
+    "isoCode": 40,
+    "displayName": "福岡",
+    "pos": {
+      "x": 1,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "佐賀県",
+    "key": "saga",
+    "regionKey": "kyushu",
+    "isoCode": 41,
+    "displayName": "佐賀",
+    "pos": {
+      "x": 0,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "長崎県",
+    "key": "nagasaki",
+    "regionKey": "kyushu",
+    "isoCode": 42,
+    "displayName": "長崎",
+    "pos": {
+      "x": 0,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "熊本県",
+    "key": "kumamoto",
+    "regionKey": "kyushu",
+    "isoCode": 43,
+    "displayName": "熊本",
+    "pos": {
+      "x": 1,
+      "y": 10,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "大分県",
+    "key": "oita",
+    "regionKey": "kyushu",
+    "isoCode": 44,
+    "displayName": "大分",
+    "pos": {
+      "x": 2,
+      "y": 9,
+      "w": 1,
+      "h": 1
+    }
+  },
+  {
+    "name": "宮崎県",
+    "key": "miyazaki",
+    "regionKey": "kyushu",
+    "isoCode": 45,
+    "displayName": "宮崎",
+    "pos": {
+      "x": 2,
+      "y": 10,
+      "w": 1,
+      "h": 2
+    }
+  },
+  {
+    "name": "鹿児島県",
+    "key": "kagoshima",
+    "regionKey": "kyushu",
+    "isoCode": 46,
+    "displayName": "鹿児島",
+    "pos": {
+      "x": 0,
+      "y": 11,
+      "w": 2,
+      "h": 1
+    }
+  },
+  {
+    "name": "沖縄県",
+    "key": "okinawa",
+    "regionKey": "kyushu",
+    "isoCode": 47,
+    "displayName": "沖縄",
+    "pos": {
+      "x": 0,
+      "y": 13,
+      "w": 2,
+      "h": 1
+    }
+  }
+]
